@@ -5,3 +5,4 @@ Some doc and papers (not all) about projects I have developed while at the unive
 - COCHLEAR IMPLANT SIMULATOR AUDIO PLUGIN FOR UNITY
 - VisualImpaired_A Path to the Unknown_A non-linear Audio Game
 - Modeling of Whispering Effect
+- Dance style analysis using Laban descriptors
