@@ -7,3 +7,4 @@ Some doc and papers (not all) about projects I have developed while at the unive
 - Modeling of Whispering Effect
 - Dance style analysis using Laban descriptors
 - vibraMaps (Android and iOS) is a high precission navigation app for blind people that uses haptics and voice navigation
+- VibraMaps: Haptic navigation App for Visual Impaired People
